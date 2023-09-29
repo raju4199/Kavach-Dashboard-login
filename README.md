@@ -1,6 +1,7 @@
 # Kavach Dashboard Login
 
-![Kavach Dashboard Login](images/login-screenshot.png)
+![Kavach Dashboard Login](![image](https://github.com/raju4199/Kavach-Dashboard-login/assets/96213832/f1aed790-7443-4468-9231-fba1cae480e1)
+)
 
 Welcome to the Kavach Dashboard Login project! This is a simple web application designed for secure user authentication.
 
